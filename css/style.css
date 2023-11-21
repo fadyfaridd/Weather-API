@@ -1,0 +1,32 @@
+.weather-body {
+    background-image: url(../images/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+
+}
+
+.searchBar button {
+    position: absolute;
+    top: 13%;
+    right: 0.6%;
+}
+
+body {
+    background-color: #171820;
+}
+
+footer{
+    background-color: #1e202b;
+}
+footer a {
+    font-size: 23;
+    cursor: pointer;
+    background: white;
+    padding: 5%;
+    border-radius: 100%;
+}
+
+#currentTemp {
+    font-size: 75px;
+}
